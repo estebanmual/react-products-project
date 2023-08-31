@@ -1,64 +1,64 @@
 {
     "productos": [
         {
-            "SKU": "SKU001",
-            "Nombre del producto": "Producto 1",
-            "Cantidad": 10,
-            "Precio": 25.99
+            "sku": "SKU001",
+            "nombre_del_producto": "Producto 1",
+            "cantidad": 10,
+            "precio": 25.99
         },
         {
-            "SKU": "SKU002",
-            "Nombre del producto": "Producto 2",
-            "Cantidad": 5,
-            "Precio": 10.50
+            "sku": "SKU002",
+            "nombre_del_producto": "Producto 2",
+            "cantidad": 5,
+            "precio": 10.50
         },
         {
-            "SKU": "SKU003",
-            "Nombre del producto": "Producto 3",
-            "Cantidad": 20,
-            "Precio": 18.75
+            "sku": "SKU003",
+            "nombre_del_producto": "Producto 3",
+            "cantidad": 20,
+            "precio": 18.75
         },
         {
-            "SKU": "SKU004",
-            "Nombre del producto": "Producto 4",
-            "Cantidad": 8,
-            "Precio": 30.00
+            "sku": "SKU004",
+            "nombre_del_producto": "Producto 4",
+            "cantidad": 8,
+            "precio": 30.00
         },
         {
-            "SKU": "SKU005",
-            "Nombre del producto": "Producto 5",
-            "Cantidad": 15,
-            "Precio": 12.99
+            "sku": "SKU005",
+            "nombre_del_producto": "Producto 5",
+            "cantidad": 15,
+            "precio": 12.99
         },
         {
-            "SKU": "SKU006",
-            "Nombre del producto": "Producto 6",
-            "Cantidad": 12,
-            "Precio": 22.50
+            "sku": "SKU006",
+            "nombre_del_producto": "Producto 6",
+            "cantidad": 12,
+            "precio": 22.50
         },
         {
-            "SKU": "SKU007",
-            "Nombre del producto": "Producto 7",
-            "Cantidad": 3,
-            "Precio": 50.00
+            "sku": "SKU007",
+            "nombre_del_producto": "Producto 7",
+            "cantidad": 3,
+            "precio": 50.00
         },
         {
-            "SKU": "SKU008",
-            "Nombre del producto": "Producto 8",
-            "Cantidad": 7,
-            "Precio": 15.99
+            "sku": "SKU008",
+            "nombre_del_producto": "Producto 8",
+            "cantidad": 7,
+            "precio": 15.99
         },
         {
-            "SKU": "SKU009",
-            "Nombre del producto": "Producto 9",
-            "Cantidad": 2,
-            "Precio": 100.00
+            "sku": "SKU009",
+            "nombre_del_producto": "Producto 9",
+            "cantidad": 2,
+            "precio": 100.00
         },
         {
-            "SKU": "SKU010",
-            "Nombre del producto": "Producto 10",
-            "Cantidad": 1,
-            "Precio": 200.00
+            "sku": "SKU010",
+            "nombre_del_producto": "Producto 10",
+            "cantidad": 1,
+            "precio": 200.00
         }
     ]
 }
